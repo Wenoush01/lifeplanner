@@ -11,8 +11,8 @@ Osobní aplikace pro správu života – úkoly, plány, poznámky a (v budoucnu
 ## 📁 Struktura projektu
 
 /life-planner/
-├── backend/ # Spring Boot aplikace
-└── frontend/ # React aplikace
+- ├── backend/ # Spring Boot aplikace
+- └── frontend/ # React aplikace
 
 ## 📌 Cíle projektu (MVP)
 
