@@ -5,6 +5,27 @@
   text-align: center;
 }
 
+a.nav-item {
+  display: inline-block;
+  text-decoration: none;
+  color: rgb(181, 181, 255);
+  transition: transform 0.2s ease;
+}
+
+a.nav-item:hover {
+  transform: scale(1.1);
+  color: rgb(212, 212, 255);
+}
+
+.nav-pages {
+  font-size: 13px;
+  margin-left: -61%;
+  margin-bottom: -5px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(186, 186, 186);
+}
+
+
 .logo {
   height: 6em;
   padding: 1.5em;

@@ -8,7 +8,7 @@ export default function MainLayout() {
             <Sidebar />
             <div className="flex-grow-1 d-flex flex-column">
                 <Topbar />
-                <main className="p-4">
+                <main className="p-2">
                     <Outlet />
                 </main>
             </div>

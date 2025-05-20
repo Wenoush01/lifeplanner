@@ -3,9 +3,9 @@
 export default function Topbar() {
     return(
         <div
-            className="bg-secondary border-bottom d-flex align-items-center justify-content-between px-4"
+            className="bg-secondary border-bottom d-flex align-items-center justify-content-between px-4 shadow"
             style={{
-                height:"60px",
+                height:"45px",
                 width:"100%",
                 position:"fixed",
                 top:"0",
